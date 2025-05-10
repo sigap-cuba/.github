@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sigap.png" alt="SIGAP Logo" width="200"/>
+  <img src="assets/sigap.png" alt="SIGAP Logo" width="800"/>
 </p>
 
 # Sistema de Información Nacional para la Gestión de las Áreas Protegidas (SIGAP)
